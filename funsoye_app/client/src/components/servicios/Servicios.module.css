@@ -1,0 +1,36 @@
+.principal_container{
+  text-align: justify;
+}
+
+.principal_container h1 {
+  text-align: center !important;
+  font-weight: 200;
+}
+
+
+@media only screen and (min-width: 375px) and (max-width: 667px){
+  .principal_container .hidden{
+    display: none;
+  }
+  .principal_container .hidden2{
+    display: none;
+  }
+}
+
+@media only screen and (min-width: 668px) and (max-width: 780px){
+  .principal_container .hidden{
+    display: none;
+  }
+  .principal_container .hidden2{
+    display: none;
+  }
+}
+
+@media only screen and (min-width: 778px) and (max-width: 980px){
+  /* .principal_container .hidden{
+    display: none;
+  } */
+  .principal_container .hidden2{
+    display: none;
+  }
+}

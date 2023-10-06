@@ -1,0 +1,59 @@
+.principal_container{
+    width: 100%;
+    padding-bottom: 26px;
+    height: auto;
+    padding-top: 20px;
+}
+
+h2 {
+  text-align: center !important;
+}
+
+.principal_container h1{
+  padding: 0;
+  margin: 0;
+  flex-direction: column;
+}
+
+.principal_container2{
+  background-color: transparent;
+  width: 67%;
+  margin-left: 15%;
+  height: auto;
+  padding: 30px;
+  background: rgb(114, 95, 95);
+  border-radius: 15px;
+  text-align: justify;
+}
+
+.principal_container2 button{
+  width: 170px;
+  height: 40px;
+  font-size: 17px;
+  margin-top: 15px;
+  border-radius: 15px;
+  border: none;
+  transition: 0.5s;
+  position: relative;
+  left: 39%;
+}
+
+.principal_container2 button:hover{
+  width: 175px;
+  height: 45px;
+  font-size: 19px;
+  background-color: rgb(137, 139, 141);
+  cursor: pointer;
+}
+
+.principios ul{
+  padding-top: 10px;
+  margin: 0;
+  text-align: left;
+}
+
+.objetivo_especifico ul{
+  padding-top: 10px;
+  margin: 0;
+  text-align: left;
+}

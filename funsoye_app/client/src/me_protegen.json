@@ -1,0 +1,55 @@
+[
+  {
+    "title1": "Programa me protegen",
+    "title2": "Encargada de promover el derecho a la salud integral de los (as) asistidos (as).",
+    "title3":"ESTRATEGIAS",
+    "title4": "COMPARTO MI ALIMENTO",
+    "description": "Con la que buscamos reducir los índices de miseria, pobreza y necesidad, llevando atención alimentaria, material, espiritual y educativa a las comunidades vulnerables mediante las acciones sociales.",
+    "description2": [
+      "UN COMEDOR EN MI BARRIO, para asistirlos (as) con desayuno y almuerzo.",
+      "UN MAESTRO EN MI COMUNIDAD, brindándoles la oportunidad de recibir educación básica.",
+      "DONO UN VESTIDO, llevándoles vestido, calzado, implementos de aseo personal, etc.",
+      "CONOCIENDO A CRISTO, promoviendo los valores y las buenas costumbres enseñando el evangelio de cristo.",
+      "UNA NAVIDAD FELIZ, llevándoles un momento de felicidad en la temporada navideña. *Salud sexual y reproductiva*"
+    ]
+  },
+  {
+    "title1":"Programa todos Educados",
+    "title2": "AREA EDUCACION: PROGRAMA TODOS EDUCADOS.",
+    "title3": "Encargada de garantizar el acceso al sistema educativo y sus beneficios.",
+    "title4": "ESTRATEGIAS",
+    "title5": "JUVENTUD EN ACCION",
+    "description": "Para reducir el estado de vulnerabilidad en los (as) jóvenes, creando espacios de adquisición e intercambio de experiencias que permitan desarrollar su proyecto de vida, mediante las acciones sociales",
+    "description2": [
+      "HABITOS DE VIDA SALUDABLE, generando conciencia de responsabilidad en los hábitos de vida sexual y reproductiva, alimenticios y evitar el consumo de alcohol y las drogas psicotrópicas.",
+      "EDUCACION Y FORMACION PARA EL TRABAJO, brindándoles la oportunidad de acceder a programas de formación y/o especialización en ocupación, arte, oficio o profesión y trabajo adolescente.",
+      " EMPRENDIMENTO Y PARTICIPACION DEMOCRATICA, generando espacios de asociación y participación democrática y empresarial.",
+      "SANA CONVIVENCIA, promoviendo formas pacificas en la resolución de conflictos, la prevención del maltrato en cualquiera de sus formas y el cuidado del entorno."
+    ]
+  },
+  {
+    "title1": "Programa Arte, Cultura y Deporte",
+    "title2":"AREA DEPORTE Y CULTURA: PROGRAMA ARTE, CULTURA Y DEPORTE.",
+    "title3": "Con la buscamos Garantizar el derecho a la formación deportiva, artística y cultural.",
+    "title4": "ESTRATEGIAS",
+    "title5": "ESCUELA DE FORMACION DEPORTIVA FUNSOYE",
+    "description": "Formando integralmente a  los niños, niñas y jóvenes de 3 a 17 años, masificando los deportes atletismo, futbol, vóley bol, basquetbol y patinaje,  y cultivando los valores: el amor, la amistad, el respeto, la equidad, la solidaridad y la honestidad mediante las acciones administrativas y sociales",
+    "description2": [
+      "CONFORMACION, formamos  parte del Sistema Nacional del Deporte, con el aval de funcionamiento otorgado por INDEPORTES ATLANTICO según resolución No. 00000156 de agosto 06 de 2018.",
+      "MASIFICACION, masificamos los deportes atletismo,  futbol, basquetbol, vóley bol y patinaje, en las categorías “titeritos” (de 3 a 5 años), “pony” (de  6 a 9 años), “pre infantil” (de 10 a 11 años), “infantil” (de 12 a 14 años), y “juvenil” (15 a  17 años), aplicando las estrategias metodológicas establecidas en nuestros planes curriculares.",
+      "PROMOCION, promoviendo a los deportistas en formación en los festivales, torneos y competencias y proveyendo  de reserva deportiva al municipio y al el departamento."
+    ],
+    "images": [
+      "image1.jpg"
+    ]
+  },
+  {
+    "title1": "Programa un Entorno Saludable",
+    "title2": "AREA SALUBRIDAD Y MEDIO AMBIENTE: PROGRAMA UN ENTORNO SALUDABLE.",
+    "title3": "Encargada de la optimización de las condiciones de salubridad y medioambientales en  las comunidades asistidas por nosotros.",
+    "title4":"ESTRATEGIAS",
+    "title5": "VIVIENDA DIGNA",
+    "description": "garantizando el derecho a una vivienda digna a las familias asistidas que se encuentren condiciones infrahumanas, mediante las acciones administrativas y sociales",
+    "description2": "RESTAURANDO UNA CASA, identificando las viviendas deterioradas, gestionando los recursos materiales y financieros, y restaurando la  edificación intervenida."
+  }
+]

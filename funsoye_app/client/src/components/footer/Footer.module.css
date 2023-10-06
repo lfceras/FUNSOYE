@@ -1,0 +1,212 @@
+.principal{
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  margin-left: initial;
+  background-color: rgb(245, 122, 50);
+  width: 100%;
+  height: auto;
+}
+
+.principal img{
+  width: 80px;
+  margin-left: 20px;
+}
+
+.horario{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  margin-left: 12%;
+}
+
+.horario h3{
+  padding: 0;
+  margin: 0;
+  color: black;
+}
+
+.horario span{
+  color: black;
+}
+
+.horario label{
+  color: black;
+}
+
+.redes{
+  width: 350px;
+  display: flex;
+  align-items: center; 
+  justify-content: center;
+}
+
+.redes .icons{
+  background-color: transparent;
+  border-radius: 25%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 50px;
+  height: 50px;
+  transition: 1s;
+  cursor: pointer;
+}
+
+.icon1{
+  color: white;
+}
+
+.icon1:hover{
+  color: rgb(71, 157, 228);
+}
+
+.icon3{
+  color: white;
+}
+
+.icon3:hover{
+  color: green;
+}
+
+.icon2{
+  color: white;
+}
+
+.icon2:hover{
+  color: rgb(126, 68, 219);
+}
+
+@media only screen and (max-width: 600px){
+  .principal{
+    display: flex;
+    align-items: center;
+    position: absolute;
+    width: 100%;
+    justify-content: space-evenly;
+    padding: 0;
+    background-color: rgb(245, 122, 50);
+    height: auto;
+  }
+
+  .principal img{
+    width: 70px;
+  }
+
+  .horario{
+    display: none;
+  }
+
+  .redes{
+    margin-right: -50px;
+  }
+
+  .redes .icons svg{
+   width: 30px;
+  }
+}
+
+@media only screen and (min-width: 600px){
+  .principal{
+    display: flex;
+    align-items: center;
+    position: absolute;
+    width: 100%;
+    justify-content: space-evenly;
+    padding: 0;
+    background-color: rgb(245, 122, 50);
+    height: auto;
+  }
+
+  .principal img{
+    width: 70px;
+  }
+
+  .horario{
+    display: none;
+  }
+
+  .redes{
+    margin-right: -50px;
+  }
+}
+
+@media only screen and (min-width: 768px){
+  .principal{
+    display: flex;
+    align-items: center;
+    position: absolute;
+    width: 100%;
+    justify-content: space-evenly;
+    padding: 0;
+    background-color: rgb(245, 122, 50);
+    height: auto;
+  }
+
+  .principal img{
+    width: 70px;
+  }
+
+  .horario{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 12%;
+  }
+
+  .redes{
+    margin-right: -50px;
+  }
+}
+
+@media only screen and (min-width: 1200px){
+  .principal{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-left: initial;
+    background-color: rgb(245, 122, 50);
+    width: 100%;
+    height: auto;
+  }
+
+  .principal img{
+    width: 90px;
+    margin-left: 20px;
+  }
+
+  .horario{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 12%;
+  }
+  
+  .horario h3{
+    padding: 0;
+    margin: 0;
+  }
+  
+  .redes{
+    width: 350px;
+    display: flex;
+    align-items: center; 
+    justify-content: center;
+  }
+  
+  .redes .icons{
+    background-color: transparent;
+    border-radius: 25%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50px;
+    height: 50px;
+    transition: 1s;
+    margin-left: 10px;
+  }
+
+}

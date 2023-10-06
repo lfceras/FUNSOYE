@@ -1,0 +1,24 @@
+body{
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  width: 100%;
+  height: auto;
+}
+
+#light{
+  background-color: lightgray;
+  color: black;
+}
+
+#light span{
+  color: black;
+}
+
+#dark{
+  background-color: rgb(112, 109, 109);
+  color: white;
+}
+
+
